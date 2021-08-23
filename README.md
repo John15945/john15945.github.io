@@ -1,5 +1,4 @@
 # website
-a website by myselef
+a website by myself
 
-
-[visit](https://john15945.github.io/website/)
+[visit](https://john15945.github.io)
